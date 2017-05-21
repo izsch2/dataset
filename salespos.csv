@@ -1,0 +1,42 @@
+Bureau of Justice Statistics,,
+filename:   salespos.csv,,
+report title:   Drugs and Crime Facts,,
+"data source(s):  FBI, Crime in the United States, annual",,
+author:   Tina Dorsey and Doris James,,
+refer questions to:   askbjs@usdoj.gov (202) 307-0765,,
+date of version:   08/17/09,,
+,,
+,,
+"Estimated number of arrests, by type of",,
+"drug law violation, 1982-2007",,
+,,
+,Sale/manufacture,Possession
+1982,137900,538100
+1983,146200,515200
+1984,155800,552600
+1985,192300,619100
+1986,206800,617300
+1987,241800,695600
+1988,316500,838700
+1989,441200,920500
+1990,344300,745200
+1991,337300,672700
+1992,338000,728400
+1993,334500,791800
+1994,360800,990600
+1995,367500,1108600
+1996,375000,1131200
+1997,324600,1259000
+1998,330500,1228600
+1999,298800,1233400
+2000,300100,1279500
+2001,307900,1279000
+2002,303100,1235700
+2003,330600,1347600
+2004,319500,1426200
+2005,337900,1508500
+2006,330700,1559100
+2007,322200,1519000
+,,
+Note: Data may not add to published totals due to rounding in calculations.,,
+"Source:   FBI, Crime in the United States, annual, Uniform Crime Reports ",,
