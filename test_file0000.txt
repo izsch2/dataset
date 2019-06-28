@@ -1,0 +1,62 @@
+
+
+things for linux flavors
+- zsh
+- curl
+- oh my zsh
+- gtop
+- nodejs
+- git
+- python
+- powerline fonts
+- meteor
+-- cmd: curl https://install.meteor.com/ | sh
+- yarn
+-- cmd: sudo apt-get install yarn
+- mist
+-- list: ethereum-wallet, mist (browser)
+-- cmd: sudo apt-get install nodejs
+
+token v coin:
+coin: own blockchain
+token: built on another platform/coins
+- bitcoin, ethereum, monero, neo, ripple
+
+MyEtherWallet
+password
+goldWeapon#1108
+private key: 0671d8feb2ad2c3eb13c5e1f4da7a95feb60661dd96ee60044204c90b0433014
+publickey:
+0xa2dc9Da50627B0B5cD6309669f04c538128eb0Ca
+
+metamask/mist:
+leadWeapon@2511
+words:
+payment wash depend pilot merry enjoy profit fresh spend spend mosquito announce
+private key:
+38c1ae16be161bd0e7a8e623da72d6e2040ccfb6e5cc5b2f6c6c3b1875aad0a4
+
+ZakToken information
+contract Number:
+0x2400977917e8df0c92db35e6d64b7ee46542a2e8
+100,000,000 ZAKS
+Precision: 18
+
+hold mail 20180526-31:
+Your Confirmation Number: CAH310589200
+Customer Contact Information
+Isaac S Chappell
+9500 SHOAL CT
+CHELTENHAM, MD 20623-1352
+isaac.chappell@gmail.com
+
+20180701::2155ed
+node1: africa01
+node2: africa02
+node3: asia0x10
+
+
+[linux-mint]:player1/Bootzz72; keyring/--
+[linux-ubuntu]:player1/Bootzz72
+[mx-linux]:player1/Bootzz72-->bootzz73
+[ubuntu-ethereum]:banker01/africa9000IBEX
