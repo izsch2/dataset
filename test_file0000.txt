@@ -60,3 +60,4 @@ node3: asia0x10
 [linux-ubuntu]:player1/Bootzz72
 [mx-linux]:player1/Bootzz72-->bootzz73
 [ubuntu-ethereum]:banker01/africa9000IBEX
+[ubuntu-19]:player1/Bootzz72
